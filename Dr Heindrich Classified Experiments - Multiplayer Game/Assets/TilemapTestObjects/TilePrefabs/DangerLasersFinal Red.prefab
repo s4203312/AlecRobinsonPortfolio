@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5590930967506119444
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 249294795808772230, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Name
+      value: DangerLasersFinal Black
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 82.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 17.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 594049534019586620, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 601636516538097545, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 867a5d4de95a6954c856c8c60ac409f0, type: 2}
+    - target: {fileID: 676057141999217596, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 867a5d4de95a6954c856c8c60ac409f0, type: 2}
+    - target: {fileID: 1349791519832852418, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 867a5d4de95a6954c856c8c60ac409f0, type: 2}
+    - target: {fileID: 5405809479907126822, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 867a5d4de95a6954c856c8c60ac409f0, type: 2}
+    - target: {fileID: 6025661726263241831, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 867a5d4de95a6954c856c8c60ac409f0, type: 2}
+    - target: {fileID: 8305185844723657146, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 867a5d4de95a6954c856c8c60ac409f0, type: 2}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 26adc9d194b2b76498b0ad39eea434ac, type: 3}

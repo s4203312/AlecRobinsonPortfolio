@@ -1,0 +1,9 @@
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Source\SEM2\Item.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\Item.generated.h

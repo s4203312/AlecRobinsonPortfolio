@@ -1,0 +1,11 @@
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Source\SEM2\Coin.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\Coin.generated.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Source\SEM2\CoinManager2.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\CoinManager2.generated.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Source\SEM2\InventoryComponent.h
+C:\Users\Alec\Desktop\ct4102-unreal-mechanics-s4203312\SEM2 4.27\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\InventoryComponent.generated.h
